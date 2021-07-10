@@ -1,6 +1,9 @@
 ## CPP-Basics
 ### C++ 基礎語法練習題庫: https://yuihuang.com/syntax/
 #### Unit 1: 安裝Code Blocks
+- CPP-Level 1-Unit 1B-安裝Code Blocks
+- CPP-Level 1-Unit 1E- ZeroJudge User Guide
+- CPP-Level 1-Unit 1F- AtCoder User Guide
 #### Unit 2: 基本輸入與輸出、變數、算數運算、資料型態
 #### Unit 3: 比較運算、邏輯運算、if 判斷、switch 判斷
 #### Unit 4: 遞增遞減運算子、迴圈 (for)、一維陣列 
